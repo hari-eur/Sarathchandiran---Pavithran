@@ -1,5 +1,7 @@
 # Sarathchandiran---Pavithran
 Answers for 1st module exersise questions
+
+
 1 . Write a C program that accepts three integers from the user and find second largest number among these.
 Constraints: 1≤ x ≤100 1≤ y ≤100 1≤ z ≤100 Sample Date: (1 , 2, 3) -> 2 (10, 12, 24) -> 12 (34, 21, 30) -> 30
 
